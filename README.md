@@ -15,16 +15,15 @@ To use this plugin, add `grouped_checkbox` as a [dependency in your pubspec.yaml
 
 <br/>
 since(02/may/2021) this package not migrated to null safe so use this
-```yaml
-dependencies:
-  grouped_checkbox:
-    git:
-      url: git://github.com/lavahasif/grouped-checkbox.git
-      ref: hasif
+
+<div class="highlight highlight-source-yaml"><pre><span class="pl-ent">dependencies</span>:
+  <span class="pl-ent">grouped_checkbox</span>:
+    <span class="pl-ent">git</span>:
+      <span class="pl-ent">url</span>: <span class="pl-s">git://github.com/lavahasif/grouped-checkbox.git</span>
+      <span class="pl-ent">ref</span>: <span class="pl-s">hasif</span>
 
 
-
-```
+</pre></div>
 
 ```dart
 dependencies: grouped_checkbox: 1.0.0
