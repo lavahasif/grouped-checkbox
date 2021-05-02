@@ -18,7 +18,7 @@ class GroupedCheckbox extends StatefulWidget {
   /// Specifies which boxes should be disabled.
   /// If this is non-null, no boxes will be disabled.
   /// The strings passed to this must match the labels.
-  List<String> disabled = [];
+  List<String> disabled = const [];
 
   /// The style to use for the labels.
   late final TextStyle textStyle;
@@ -193,7 +193,7 @@ class GroupedCheckbox extends StatefulWidget {
     required this.checkedItemList,
     this.textStyle = const TextStyle(),
     this.activeColor = Colors.white,
-    required this.disabled,
+    this.disabled = const [],
     this.checkColor = Colors.white,
     this.focusColor = Colors.white,
     this.hoverColor = Colors.white,
