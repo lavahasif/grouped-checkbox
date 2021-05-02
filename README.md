@@ -26,7 +26,7 @@ since(02/may/2021) this package not migrated to null safe so use this
 </pre></div>
 
 ```dart
-dependencies: grouped_checkbox: 1.0.0
+not this --->dependencies: grouped_checkbox: 1.0.0
 ```
 
 ### Example
