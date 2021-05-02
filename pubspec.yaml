@@ -1,0 +1,17 @@
+name: grouped_checkbox
+description: A package to easily group checkboxes in different styles in Flutter projects.
+version: 1.0.0
+author: Nadia Ferdoush <ferdoushnadia@gmail.com>
+homepage: https://github.com/zfnadia/grouped-checkbox
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
