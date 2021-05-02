@@ -17,7 +17,7 @@ since(02/may/2021) this package not migrated to null safe so use this
 dependencies:
   grouped_checkbox:
     git:
-      url: git://github.com/RR-Reddy/NumberToWords.git
+      url: git://github.com/lavahasif/grouped-checkbox.git
       ref: hasif
 
 
